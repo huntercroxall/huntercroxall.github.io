@@ -1,3 +1,3 @@
-# Stat386 Blog Theme
+# My Epic Data Science Blog
 
-This is a simple and poorly documented Jekyll theme that I made for my Stat 386 class to use.  I built the theme originally by following the ["Up and Running with GitHub Pages" (parts 1 - 6)](https://www.youtube.com/playlist?list=PLWzwUIYZpnJuT0sH4BN56P5oWTdHJiTNq) tutorials by Bill Raymond on YouTube.
+This is the place where Hunter shares all of his epic thoughts on data science and the world at large!
