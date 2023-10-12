@@ -88,7 +88,7 @@ For more information on Java, see [the Java Website](https://www.java.com/en/dow
 
 * Is designed for business analytics, meaning it has reliable capabilities in analyzing customer data through a variety of means.
 
-For more information on SAS, see (the SAS website)[https://www.sas.com/en_us/software/viya.html?utm_source=other&utm_medium=cpm&utm_campaign=non-cbo-us&dclid=&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZub37OAs57WDEfezAbcpJM5t5mT5HNd0RM7_4aFZyOurXYsjztYLlcsaAgsXEALw_wcB]
+For more information on SAS, see [the SAS website](https://www.sas.com/en_us/company-information.html)
 
 
 
