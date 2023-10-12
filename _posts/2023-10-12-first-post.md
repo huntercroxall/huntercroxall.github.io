@@ -91,5 +91,10 @@ For more information on Java, see [the Java Website](https://www.java.com/en/dow
 For more information on SAS, see [the SAS website](https://www.sas.com/en_us/company-information.html)
 
 
+---
+---
+Whether you hope to get a job in data science, or just had a curiosity about programming langauges, I hope that this post has given you some insights. Four out of the five languages described above are free to access. If you have any interest in trying any of them out, the websites I provided should give you directions to get started. 
 
-The information used in this blog post was sourced via the websites noted under each language and CHATGPT
+
+
+_The information used in this blog post was sourced via the websites noted under each language and CHATGPT_
