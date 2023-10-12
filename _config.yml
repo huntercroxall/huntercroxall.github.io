@@ -23,7 +23,7 @@ email: hunter.croxall@gmail.com
 description: A fun blog where Hunter's wisdom of data science exists. 
 baseurl: # the name of the repository 
 url: "https://huntercroxall.github.io" #  change this to "https://<your-github-username>.github.io"
-image: https://static.wikia.nocookie.net/lotr/images/8/8b/DOiAi2WUEAE3A1Y.0.jpg/revision/latest?cb=20200305221819
+image: braden-jarvis-prSogOoFmkw-unsplash.jpeg
 author: Hunter Croxall
 copyright: HC # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 'The default image for the site header is a random image from 
