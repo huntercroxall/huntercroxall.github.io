@@ -1,4 +1,3 @@
-2023-10-12-first-post.md
 ---
 layout: post
 title:  "The Wonderful World of Programming Languages!"
