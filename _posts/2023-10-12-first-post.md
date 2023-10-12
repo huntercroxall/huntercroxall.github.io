@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title:  "The Wonderful World of Programming Languages!"
+title:  "The Best Languages for Data Science"
 author: Hunter Croxall
-description: An analysis of the 5 most common statistical programming languages
-image: "/path/to/image" or "url_to_image"
---- 
+description: The top 5 programming languages used by data scientists in the field and in the office   
+image: "/assets/images/image5.jpg"
+---
 
