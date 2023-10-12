@@ -60,6 +60,7 @@ For more information on R see [The R Website](https://www.r-project.org/about.ht
   ---
   ---
   ## 4. Java
+  
   * Java was designed for reliability, meaning it uses features like automatic memory management to prevent many of the most common programming errors
  
   * Platform independence enables Java to be written once and run from anywhere. This reduces the need for platform-specific development
@@ -77,3 +78,18 @@ For more information on Java, see [the Java Website](https://www.java.com/en/dow
 ---
 ## 5. SAS
 
+* SAS is known for powerful analytics and a wide range of tools for data mining, statistical analysis, and machine learning.
+
+* Enables efficient preparation of data scraped from the internet.
+
+* Has high-quality data visualization capabitilites that all for the creation of professional graphs, reports, and charts.
+
+* Has an international and highly-professional community (since one must pay to use this program) making it perfect for large organizations and international operations.
+
+* Is designed for business analytics, meaning it has reliable capabilities in analyzing customer data through a variety of means.
+
+For more information on SAS, see (the SAS website)[https://www.sas.com/en_us/software/viya.html?utm_source=other&utm_medium=cpm&utm_campaign=non-cbo-us&dclid=&gclid=Cj0KCQjwsp6pBhCfARIsAD3GZub37OAs57WDEfezAbcpJM5t5mT5HNd0RM7_4aFZyOurXYsjztYLlcsaAgsXEALw_wcB]
+
+
+
+THe information used in this blog post was sourced via the websites noted under each language and CHATGPT
