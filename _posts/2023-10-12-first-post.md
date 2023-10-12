@@ -57,19 +57,19 @@ For more information on R see [The R Website](https://www.r-project.org/about.ht
   For more information on SQL see [Webpage about SQL](https://www.w3schools.com/sql/sql_intro.asp)
 
 
-  ---
-  ---
-  ## 4. Java
-  
-  * Java was designed for reliability, meaning it uses features like automatic memory management to prevent many of the most common programming errors
- 
-  * Platform independence enables Java to be written once and run from anywhere. This reduces the need for platform-specific development
- 
-  * Has a well-maintained source of official documentation, as well as a strong and active community that provides any resource a beginner may want.
- 
-  * Has support for multithreading, which makes it suitable for applications that need parallel processing and multitask completion.
- 
-  * Innovated through an open source project. This enable language evolution as data science continues to transform into the future.
+---
+---
+## 4. Java
+
+* Java was designed for reliability, meaning it uses features like automatic memory management to prevent many of the most common programming errors
+
+* Platform independence enables Java to be written once and run from anywhere. This reduces the need for platform-specific development
+
+* Has a well-maintained source of official documentation, as well as a strong and active community that provides any resource a beginner may want.
+
+* Has support for multithreading, which makes it suitable for applications that need parallel processing and multitask completion.
+
+* Innovated through an open source project. This enable language evolution as data science continues to transform into the future.
  
 For more information on Java, see [the Java Website](https://www.java.com/en/download/help/whatis_java.html#:~:text=Java%20is%20a%20programming%20language,services%20and%20applications%20are%20built.)
 
