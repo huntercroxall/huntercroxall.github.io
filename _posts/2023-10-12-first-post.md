@@ -92,4 +92,4 @@ For more information on SAS, see [the SAS website](https://www.sas.com/en_us/com
 
 
 
-THe information used in this blog post was sourced via the websites noted under each language and CHATGPT
+The information used in this blog post was sourced via the websites noted under each language and CHATGPT
