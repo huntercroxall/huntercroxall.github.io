@@ -3,7 +3,7 @@ layout: post
 title:  "The Best Languages for Data Science"
 author: Hunter Croxall
 description: The top 5 programming languages used by data scientists in the classroom and in the office
-image: "denis-degioanni-9wH624ALFQA-unsplash.jpeg"
+image: 2021-4-26-Lindon-Exterior-Front.jpg
 ---
 
 As a data science major, I have spent most of my college years becoming proficient in Python and R. The great programming languages have given me necessary experience for my future career. However, these are not the only programming languages loved by data scientists. Here is a short list of the 5 programming languages I believe to be the most popular.
