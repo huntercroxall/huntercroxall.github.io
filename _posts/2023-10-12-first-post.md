@@ -6,11 +6,11 @@ description: The top 5 programming languages used by data scientists in the clas
 image: "/assets/images/denis-degioanni-9wH624ALFQA-unsplash.jpeg"
 ---
 
-As a data science major, I have spent most of my college years becoming proficient in Python and R. The great programming languages have given me necessary experience for my future career. However, these are not the only programming languages loved by data scientists. Here is a short list of the 5 programming languages I believe to be the most popular.
+As a data science major, I have spent most of my college years becoming proficient in Python and R. These great programming languages have given me necessary experience for my future career. However, these are not the only programming languages loved by data scientists. Here is a short list of the 5 programming languages I believe to be the most popular.
 
 ## 1. Python
 
-* Python uses a clear syntax via whitespace that enables beginner to to quickly pick up  the skills necessary to proficiently read and write it.
+* Python uses a clear syntax via whitespace that enables beginners to quickly pick up the skills necessary to proficiently read and write in it.
 
 * An extensive and well-developed library of modules and packages reduces the need to write code from scratch
 
@@ -44,11 +44,11 @@ For more information on R see [The R Website](https://www.r-project.org/about.ht
 ---
 ## 3. SQL
 
-* This is an easy to use langauage because of its declarative nature. You can easily tell it what you need it to do without telling it how to do it.
+* This is an easy to use language because of its declarative nature. You can easily tell it what you need it to do without telling it how to do it.
 
-* Is most useful when querying data. It uses built in statement to allow the user to quickly move through the data and extract meaningful insights.
+* Is most useful when querying data. It uses built-in statements to allow the user to quickly move through the data and extract meaningful insights.
 
-* SQL is standardized, meaning it has a high level of compatability between different databases. The syntax may change slightly across databases, but the core language stays the same.
+* SQL is standardized, meaning it has a high level of compatability between different databases and the core language stays the same.
 
 * Is known for having high data security and data integrity, meaning that keys are used to maintain the quality and consistency of the data.
 
