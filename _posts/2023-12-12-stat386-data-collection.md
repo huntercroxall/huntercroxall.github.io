@@ -80,4 +80,4 @@ df = pd.DataFrame(results)
 With that, you can now manipulate the data frame in the same way that you would any other pandas data frame in Python. 
 
 
-### These are all of the steps I took to query the OpenFDA API. 
+### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which I did not need to change for my analysis, but for help on changing data types and other cleaning methods, see [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
