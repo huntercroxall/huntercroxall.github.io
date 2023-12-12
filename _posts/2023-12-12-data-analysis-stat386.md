@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "The Best Languages for Data Science"
+title:  "Data Analysis for Stat 386 Project"
 author: Hunter Croxall
-description: The top 5 programming languages used by data scientists in the classroom and in the office
+description: Interesting findings from the OpenFDA API Dataset
 image: "/assets/images/kyle-cottrell-wIscdBkwnrM-unsplash.jpeg"
 ---
 
