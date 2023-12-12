@@ -39,4 +39,36 @@ Now that you have an API key, you can access a huge variety of data gathered by 
 ---
 
 ## Step 3: Use the API Key to Request Data
+In ored to access the data, three parts of the request must be explicitly stated:
+1. Headers: This tells the API what type of content you want to gather and how you will gather it (which is usually your API Key)
+2. Parameters: These tell the query the keywords you want to search for and the number of data points you would like to collect that match the given keyword.
+3. Endpoint: This informs the query of where in the API it needs to search for the provided data.
+
+Here is an example of these three parts coming together to make a query on the API:
+```
+endpoint = "https://api.fda.gov/food/enforcement.json"
+
+params = {
+    'search':'reason_for_recall:"egg"',
+    'limit': 200
+}
+
+headers = {
+    'Content-Type': 'application/json',
+    'api_key': api_key
+}
+
+response = requests.get(endpoint, params=params, headers=headers)
+```
+As you can see, you can change the parameters to search for a wide variety of keywords based on columns within the dataset. You can also change the number of data points that the query will gather for you by changing the limit number.
+
+The API key has been placed in a seperate file that connects to the program file through these lines of code:
+```
+with open('api_keys.txt', 'r') as api_key_file:
+   api_key = api_key_file.read().strip()
+```
+
+---
+
+## Step 4: Place the Requested Data into a Data Frame using Pandas
 
