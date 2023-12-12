@@ -71,4 +71,13 @@ with open('api_keys.txt', 'r') as api_key_file:
 ---
 
 ## Step 4: Place the Requested Data into a Data Frame using Pandas
+Now that you have queried the data, you can quickly add the place the information into a data frame using pandas, as shown below:
+```
+results = data.get('results', [])
 
+df = pd.DataFrame(results)
+```
+With that, you can now manipulate the data frame in the same way that you would any other pandas data frame in Python. 
+
+
+### These are all of the steps I took to query the OpenFDA API. 
