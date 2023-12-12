@@ -15,3 +15,21 @@ foods. This blog post will describe the process used to gather the data using th
 ---
 
 ## Step 1: Install Necessary Libraries
+For this project, you need four libraries: 
+**pandas**, to convert the data gathered via API key into a data frame 
+**requests**, to call in the data from the OpenFDA API source
+**seaborn**, to design data visualizations
+**matplotlib.pyplot**, also to help with the creation of data visualizations
+
+Make sure you install all four of these packages, then you can easily import them into the code using the code below:
+```
+import pandas as pd
+import requests
+import seaborn as sns
+import matplotlib.pyplot as plt
+```
+
+---
+
+## Step 2: Get an API Key from OpenFDA to Access Data
+
