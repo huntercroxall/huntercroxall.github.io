@@ -32,4 +32,11 @@ import matplotlib.pyplot as plt
 ---
 
 ## Step 2: Get an API Key from OpenFDA to Access Data
+First, go to the [OpenFDA website](https://open.fda.gov/apis/authentication/). From there, click on the blue button that says "Get API Key". Follow the steps from there to receive the API key. Make sure to never share your API key online by placing it in a gitignore file and accessing you API key file remotely. API keys should never be shared in public. 
+
+Now that you have an API key, you can access a huge variety of data gathered by the FDA! This post will specifically examine how to collect data on food recall enforcements, but the [OpenFDA website](https://open.fda.gov/apis/) has many useful guides to help you access the entirety of their public datasets. 
+
+---
+
+## Step 3: Use the API Key to Request Data
 
