@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Analysis of Egg-Related Recalls in the US by the FDA"
+title:  "Data Analysis of Egg-Related Recalls in the US by the FDA (2012-2023)"
 author: Hunter Croxall
 description: Interesting findings from the OpenFDA API Dataset regarding egg-allergen recalls
 image: "/assets/images/kyle-cottrell-wIscdBkwnrM-unsplash.jpeg"
