@@ -57,3 +57,5 @@ For my sixth visualization, I wanted to delve further into what I saw in my fift
 ## Conclusion
 
 
+#### Important note: 
+Here is the link to my github repository where my data and code is stored if you would like to see the coding process used and the data collected. [Hunter Croxall Github](https://github.com/huntercroxall/s386Fall2023-project)
