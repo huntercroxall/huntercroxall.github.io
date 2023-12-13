@@ -79,4 +79,8 @@ With that, you can now manipulate the data frame in the same way that you would 
 ---
 ---
 
-### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which can easily changed using methods described in this super useful online book, [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
+## Ethics and Conclusions
+In conclusion, using the OpenFDA to query for data is not too challenging. You can easily access a huge trove of data supplied by the government through this simple process. The website that I added a link to earlier in this post can guide you to the help sheets that the FDA has created to additionally help with queries. By using the API provided by the United States government, this data is being willingly provided to the public for private research purposes. As long as API keys are kept private, this data is ethical and good for use. The next blog post will further detail the exploratory data analysis that I completed following this data collection. 
+
+
+### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which can be easily changed using methods described in this super useful online book, [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
