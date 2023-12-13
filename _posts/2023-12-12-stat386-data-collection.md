@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "API Data Collection Methods for Stat 386 Project"
+title:  "Collection of Data on Egg-Related Recall Events by the FDA (2012-2023): A Stat 386 Project"
 author: Hunter Croxall
 description: A short blog post describing the process for using the OpenFDA API key.
 image: "/assets/images/braden-jarvis-prSogOoFmkw-unsplash.jpeg"
