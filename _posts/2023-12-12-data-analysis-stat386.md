@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Data Analysis for Stat 386 Project"
+title:  "Data Analysis of Egg-Related Recalls in the US by the FDA"
 author: Hunter Croxall
-description: Interesting findings from the OpenFDA API Dataset
+description: Interesting findings from the OpenFDA API Dataset regarding egg-allergen recalls
 image: "/assets/images/kyle-cottrell-wIscdBkwnrM-unsplash.jpeg"
 ---
 
 ## Introduction
-For my Stat 386 project at BYU, I decided to analyze a set of data collected from the OpenFDA API. I specifically analyzed egg-related recall events. My motivation for selecting this data is ease of access and curiousity about the various data the government collects. I don't honestly have a deep love for examining egg-related FDA recall events, but I do like to understand the sort of data the government collects and stores. I find it intriguing that an OpenFDA API has been created to give the public access to information regarding the actions of the FDA. I have learned more about the world of government regulation through this project. This blog contains a series of visualizations that I created while exploring this data. I also describe how I created each of these visualizations using pandas, seaborn, and matplotlib.plotly to produce each of these graphs. By doing this, I hope that you will gain insights about the recall system implemented by the United States, and enjoy learning about the programming used to produce such an analysis. 
+For my Stat 386 project at BYU, I decided to analyze a set of data collected from the OpenFDA API. I specifically analyzed egg-related recall events. My motivation for selecting this data was ease of access and curiousity about the various data the government collects. I don't honestly have a deep love for examining egg-related FDA recall events, but I do like to understand the sort of data the government collects and stores. I find it intriguing that an OpenFDA API has been created to give the public access to information regarding the actions of the FDA. I have learned more about the world of government regulation through this project. This blog contains a series of visualizations that I created while exploring this data. I also describe how I created each of these visualizations using pandas, seaborn, and matplotlib.plotly to produce each of these graphs. By doing this, I hope that you will gain insights about the recall system implemented by the United States, and enjoy learning about the programming used to produce such an analysis. 
 
 
 ## Visualization 1: Pie Chart of Classification of Recall
