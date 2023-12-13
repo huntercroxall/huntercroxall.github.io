@@ -19,15 +19,11 @@ foods. This blog post will describe the process used to gather the data using th
 For this project, you need four libraries: 
 **pandas**, to convert the data gathered via API key into a data frame 
 **requests**, to call in the data from the OpenFDA API source
-**seaborn**, to design data visualizations
-**matplotlib.pyplot**, also to help with the creation of data visualizations
 
-Make sure you install all four of these packages, then you can easily import them into the code using the code below:
+Make sure you install both of these packages, then you can easily import them into the code using the code below:
 ```
 import pandas as pd
 import requests
-import seaborn as sns
-import matplotlib.pyplot as plt
 ```
 
 ---
@@ -51,7 +47,7 @@ endpoint = "https://api.fda.gov/food/enforcement.json"
 
 params = {
     'search':'reason_for_recall:"egg"',
-    'limit': 200
+    'limit': 500
 }
 
 headers = {
@@ -83,4 +79,4 @@ With that, you can now manipulate the data frame in the same way that you would 
 ---
 ---
 
-### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which I did not need to change for my analysis, but for help on changing data types and other cleaning methods, see [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
+### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which can easily changed using methods described in this super useful online book, [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
