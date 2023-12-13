@@ -7,11 +7,11 @@ image: "/assets/images/braden-jarvis-prSogOoFmkw-unsplash.jpeg"
 ---
 ---
 
-## Introduction
+## Introduction and Motivation
 For my Stat 386 project, I chose to use an API Key to access the OpenFDA database. The FDA, or Food and Drug Administration, of the United
 States Government records data on a variety of foods, drugs, and devices. The OpenFDA database allows the public to access this data and
 complete analysis on a variety of aspects of this data. For the sake of this blog post, I decided to gather data regarding recalls of various
-foods. This blog post will describe the process used to gather the data using the OpenFDA API.
+foods. This blog post will describe the process used to gather the data using the OpenFDA API. My motivation for selecting this data was ease of access and curiousity about the various data the government collects. I don't honestly have a deep love for examining egg-related FDA recall events, but I do like to understand the sort of data the government collects and stores. I find it intriguing that an OpenFDA API has been created to give the public access to information regarding the actions of the FDA. I have learned more about the world of government regulation through this project. 
 
 ---
 
