@@ -22,6 +22,9 @@ For my second visualization, I wanted to see where the majority of the the recal
 ![Look at this wonderful graph!](/assets/images/count_by_state.png "Count By State")
 
 
-## Visualization 3:
+## Visualization 3: Line Chart of Recall Events by Year
+For my third visualization, I wanted to see which year has seen the most recall events since 2012. Interestingly, a major spike occurred in 2017 for reasons I don't know. I also noticed that after the increase in recalls after 2017, the number of recall events remained substantially higher than the years prior to 2017. 
+
+![Look at this wonderful graph!](/assets/images/line_graph.png "Line Graph by Year")
 
 
