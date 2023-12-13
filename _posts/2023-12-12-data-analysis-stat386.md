@@ -41,10 +41,14 @@ For my fifth visualization, I wanted to examine two things. First, I wanted to s
 
 
 ## Visualization 6: Multiple Bar Chart Measuring Count of Recall Events Separated by Month and Classification
-For my sixth visualization, I wanted to delve further into what I saw in my fifth visualization. I did this by measuring by the count of recall events by month separated by classification. I found that a huge number of Class 1 recall events have occurred in May, and there happens to be more recall events earlier in the year rather than later in the year for all three Class types. The skew noticed in my fifth visualization again appeared in the Class 2 recall event portion of the graph, but now I could clearly see that most Class 2 recall events talk place in March and April and almost none occur between October and December. 
+For my sixth visualization, I wanted to delve further into what I saw in my fifth visualization. I did this by measuring by the count of recall events by month separated by classification. I found that a huge number of Class 1 recall events have occurred in May, and there happens to be more recall events earlier in the year rather than later in the year for all three Class types. The skew noticed in my fifth visualization again appeared in the Class 2 recall event portion of the graph, but now I could clearly see that most Class 2 recall events take place in March and April and almost none occur between October and December. 
 
 ![Look at this wonderful graph!](/assets/images/multiple_bar_chart_month.png "Multi-Bar by Class and Month")
 
+## Summary of Findings
+**Visualization 1**: In visualization 1, I found that over 70% of recall events are classified as Class 1. This means that a majority of recalls are made in cases when the product can put consumers at a high risk of harm. This suprised me, since I expected to see more low-risk recalls since those seem more likely to occur. However, it makes sense that a production mistake is more likely to be recalled if the risk to consumers is life-threatening. 
+**Visualization 2**: In visualization 2, I learned that the most recalls occur in the state of California, with Washington and Texas in second and third respectively. I thought that the number of recalls in a state would correlate with the population of the state, but this was not proven entirely true because Washington surpassed several states that have millions more people. However, with the few exceptions of Washington and Iowa, the number of recalls did relate to the population of the state.
+**Visualization 3** In visualization 3, I completed a line chart of recall events over the past 10 years. Interestingly, I found that 2017 saw the most recall events by a significant margin in comparison to the other years. I also found that following 2017, the number of recall events remained fairly high in comparison to prior to the 2017 spike. 
 
 ## Conclusion
 
