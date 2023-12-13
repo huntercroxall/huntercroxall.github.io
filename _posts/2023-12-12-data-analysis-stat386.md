@@ -37,5 +37,15 @@ For my fourth visualization, I wanted to see how long a recall event is. I creat
 ## Visualization 5: Boxplots Measuring Distribution of Month of Recall Report and Separated into Three Plots Based on Classification
 For my fifth visualization, I wanted to examine two things. First, I wanted to see if the number of recall reports changes at different times of a given year. I also wanted to see if certain types of recalls were more likely to occur at different times of the year. By creating this graph, I was able to see some intriguing trends. No Class 3 classification recalls have occurred in November or December since 2012. I also noticed that Class 1 recalls occur fairly evenly over the duration of the year, but Class 2 recalls occur more often in the beginning year. I have no idea why this skew exists in the data since I feel that recalls occur regardless of season, but this data seems to provide evidence to the contrary.
 
-![Look at this wonderful graph!](/assets/images/boxplot_month.png "Scatterplot by Date")
+![Look at this wonderful graph!](/assets/images/boxplot_month.png "Boxplot by Class")
+
+
+## Visualization 6: Multiple Bar Chart Measuring Count of Recall Events Separated by Month and Classification
+For my sixth visualization, I wanted to delve further into what I saw in my fifth visualization. I did this by measuring by the count of recall events by month separated by classification. I found that a huge number of Class 1 recall events have occurred in May, and there happens to be more recall events earlier in the year rather than later in the year for all three Class types. The skew noticed in my fifth visualization again appeared in the Class 2 recall event portion of the graph, but now I could clearly see that most Class 2 recall events talk place in March and April and almost none occur between October and December. 
+
+![Look at this wonderful graph!](/assets/images/multiple_bar_chart_month.png "Multi-Bar by Class and Month")
+
+
+## Conclusion
+
 
