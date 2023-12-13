@@ -55,7 +55,10 @@ For my sixth visualization, I wanted to delve further into what I saw in my fift
 
 
 ## Conclusion
+In conclusion, I learned a number of interesting things about egg-related recall events. There is room for in-depth analysis of why more recall events occur in the spring, why more Class 1 events are created rather than less life-threatening recalls, and why the number of recalls has drastically changed during various years like 2017. By completing an exploratory data analysis on this data, I was able to learn about egg-related FDA recall events in an insightful way. Just reading the rows of the data would not help anyone reach the findings I came to. By using exploratory data analysis, I was able to learn so much more about this interesting dataset provided by the OpenFDA API.
 
 
+---
+---
 #### Important note: 
 Here is the link to my github repository where my data and code is stored if you would like to see the coding process used and the data collected. [Hunter Croxall Github](https://github.com/huntercroxall/s386Fall2023-project)
