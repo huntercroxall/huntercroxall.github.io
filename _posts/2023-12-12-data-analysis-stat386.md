@@ -31,7 +31,7 @@ For my third visualization, I wanted to see which year has seen the most recall 
 ## Visualization 4: Scatterplot Comparing When A Report was Made and When the Report was Terminated
 For my fourth visualization, I wanted to see how long a recall event is. I created this scatter plot to see if most events resolve quickly or extend further into the future. I did this by graphing the date of the report against the date when the report was terminated. This allowed me to see that most recall events only last for a short time, while a small number of them remain in force for more than 6 months. Although this graph does not provide great insights for every individual data point, the aggregate points make a clear point that recall events do not usually last very long. 
 
-![Look at this wonderful graph!](scatterplot_datetimes.png "Scatterplot by Date")
+![Look at this wonderful graph!](/assets/images/scatterplot_datetimes.png "Scatterplot by Date")
 
 
 ## Visualization 5: 
