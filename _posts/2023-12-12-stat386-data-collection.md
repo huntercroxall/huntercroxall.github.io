@@ -77,6 +77,26 @@ df = pd.DataFrame(results)
 With that, you can now manipulate the data frame in the same way that you would any other pandas data frame in Python. 
 
 ---
+
+## Step 5: Clean the Data for Analysis Purposes
+Now that you have a dataframe that contains the data that you wanted, you can now clean the data for use.  
+For my purposes, I intend to use the termination and report dates as datetime variables, so I will first make that change:
+```
+df['dt_report_date'] = pd.to_datetime(df['report_date'])
+df['dt_termination_date'] = pd.to_datetime(df['termination_date'])
+```
+I would also like to seperate the year, month, and day from the report date variable:
+```
+df['report_year'] = df['dt_report_date'].dt.year
+df['report_month'] = df['dt_report_date'].dt.month
+df['report_day'] = df['dt_report_date'].dt.day
+```
+Finally, I will select the columns that I will need for my exploratory analysis and dashboard creation:
+```
+df = df.loc[:,['city', 'state', 'address_1', 'postal_code', 'classification', 'reason_for_recall', 'product_description', 'product_quantity', 'status', 'dt_report_date', 'dt_termination_date', 'report_year', 'report_month', 'report_day']]
+```
+
+---
 ---
 
 ## Ethics and Conclusions
