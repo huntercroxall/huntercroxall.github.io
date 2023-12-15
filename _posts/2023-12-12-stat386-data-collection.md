@@ -95,6 +95,9 @@ Finally, I will select the columns that I will need for my exploratory analysis 
 df = df.loc[:,['city', 'state', 'address_1', 'postal_code', 'classification', 'reason_for_recall', 'product_description', 'product_quantity', 'status', 'dt_report_date', 'dt_termination_date', 'report_year', 'report_month', 'report_day']]
 ```
 
+Here is a portion of the dataset in a streamlit chart:
+![Look at this wonderful chart!](/assets/images/data_collected.png "Data Frame")
+
 ---
 ---
 
