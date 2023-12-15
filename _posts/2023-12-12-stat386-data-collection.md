@@ -10,8 +10,7 @@ image: "/assets/images/braden-jarvis-prSogOoFmkw-unsplash.jpeg"
 ## Introduction and Motivation
 For my Stat 386 project, I chose to use an API Key to access the OpenFDA database. The FDA, or Food and Drug Administration, of the United
 States Government records data on a variety of foods, drugs, and devices. The OpenFDA database allows the public to access this data and
-complete analysis on a variety of aspects of this data. For the sake of this blog post, I decided to gather data regarding recalls of various
-foods. This blog post will describe the process used to gather the data using the OpenFDA API. My motivation for selecting this data was ease of access and curiousity about the various data the government collects. I don't honestly have a deep love for examining egg-related FDA recall events, but I do like to understand the sort of data the government collects and stores. I find it intriguing that an OpenFDA API has been created to give the public access to information regarding the actions of the FDA. I have learned more about the world of government regulation through this project. 
+complete analysis on a variety of aspects of this data. For the sake of this blog post, I decided to gather data regarding recalls of various foods. This blog post will describe the process used to gather the data using the OpenFDA API. My motivation for selecting this data was ease of access and curiousity about the various data the government collects. I find it intriguing that an OpenFDA API has been created to give the public access to information regarding the actions of the FDA. I have learned more about the world of government regulation through this project. 
 
 ---
 
@@ -100,7 +99,7 @@ df = df.loc[:,['city', 'state', 'address_1', 'postal_code', 'classification', 'r
 ---
 
 ## Ethics and Conclusions
-In conclusion, using the OpenFDA to query for data is not too challenging. You can easily access a huge trove of data supplied by the government through this simple process. The website that I added a link to earlier in this post can guide you to the help sheets that the FDA has created to additionally help with queries. By using the API provided by the United States government, this data is being willingly provided to the public for private research purposes. As long as API keys are kept private, this data is ethical and good for use. The next blog post will further detail the exploratory data analysis that I completed following this data collection. 
+In conclusion, the website that I added a link to earlier in this post can guide you to the help sheets that the FDA has created to additionally help with queries. By using the API provided by the United States government, this data is being willingly provided to the public for private research purposes. As long as API keys are kept private, this data is ethical and good for use. The next blog post will further detail the exploratory data analysis that I completed following this data collection. 
 
 
 ### These are all of the steps I took to query the OpenFDA API. All of the data is in string form, which can be easily changed using methods described in this super useful online book, [Python for Data Analysis](https://wesmckinney.com/book/data-cleaning).
